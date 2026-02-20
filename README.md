@@ -1,7 +1,7 @@
 # Drizzle ORM Best Practices
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Skills](https://img.shields.io/badge/skills.sh-drizzle--best--practices-blue)](https://skills.sh/ofershap/drizzle-best-practices/drizzle-best-practices)
+[![Skills](https://img.shields.io/badge/skills.sh-drizzle--best--practices-blue)](https://skills.sh/ofershap/drizzle-best-practices)
 
 Drizzle ORM done right. `pgTable` schema design, `relations()`, `$inferSelect`/`$inferInsert` type
 inference, prepared statements, `drizzle-kit` migrations, relational queries, `drizzle-zod`, and
@@ -16,7 +16,7 @@ connection pooling.
 ### Cursor / Claude Code / Windsurf
 
 ```bash
-npx skills add ofershap/drizzle-best-practices/drizzle-best-practices
+npx skills add ofershap/drizzle-best-practices
 ```
 
 Or copy `skills/` into your `.cursor/skills/` or `.claude/skills/` directory.
