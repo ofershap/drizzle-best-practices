@@ -8,7 +8,18 @@
     "format": "prettier --write .",
     "format:check": "prettier --check ."
   },
-  "keywords": ["drizzle", "drizzle-orm", "orm", "database", "typescript", "best-practices", "sql", "cursor-plugin", "claude-code", "ai-agent"],
+  "keywords": [
+    "drizzle",
+    "drizzle-orm",
+    "orm",
+    "database",
+    "typescript",
+    "best-practices",
+    "sql",
+    "cursor-plugin",
+    "claude-code",
+    "ai-agent"
+  ],
   "author": {
     "name": "Ofer Shapira",
     "url": "https://github.com/ofershap"

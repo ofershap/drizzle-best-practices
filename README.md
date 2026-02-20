@@ -1,6 +1,7 @@
 # Drizzle ORM Best Practices
 
-Drizzle ORM done right. Schema design, relations, migrations, type-safe queries, and performance patterns for the fastest-growing TypeScript ORM.
+Drizzle ORM done right. Schema design, relations, migrations, type-safe queries, and performance
+patterns for the fastest-growing TypeScript ORM.
 
 ## Install
 
@@ -28,7 +29,8 @@ Or copy `skills/` into your `.cursor/skills/` or `.claude/skills/` directory.
 
 ### Skills
 
-- **drizzle-best-practices** - Drizzle ORM done right. Schema design, relations, migrations, type-safe queries, and performance patterns.
+- **drizzle-best-practices** - Drizzle ORM done right. Schema design, relations, migrations,
+  type-safe queries, and performance patterns.
 
 ### Rules
 
@@ -40,10 +42,13 @@ Or copy `skills/` into your `.cursor/skills/` or `.claude/skills/` directory.
 
 ## Why This Plugin?
 
-AI agents are trained on data that includes outdated patterns. This plugin ensures your agent uses current Drizzle ORM best practices:
+AI agents are trained on data that includes outdated patterns. This plugin ensures your agent uses
+current Drizzle ORM best practices:
 
-- Schema: agents often produce Prisma-style `model` blocks instead of `pgTable`/`mysqlTable`/`sqliteTable`
-- Relations: agents use foreign key decorators or expect Prisma `@relation` instead of Drizzle `relations()`
+- Schema: agents often produce Prisma-style `model` blocks instead of
+  `pgTable`/`mysqlTable`/`sqliteTable`
+- Relations: agents use foreign key decorators or expect Prisma `@relation` instead of Drizzle
+  `relations()`
 - Queries: agents reach for raw SQL when the query builder would be type-safe and sufficient
 - Types: agents manually define interfaces instead of using `$inferSelect` and `$inferInsert`
 - Migrations: agents write manual SQL instead of using drizzle-kit generate/migrate
