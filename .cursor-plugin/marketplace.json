@@ -1,0 +1,18 @@
+{
+  "name": "drizzle-best-practices",
+  "owner": {
+    "name": "Ofer Shapira",
+    "email": "ofer@shapira.dev"
+  },
+  "metadata": {
+    "description": "Drizzle ORM done right. Schema design, relations, migrations, type-safe queries, and performance patterns for the fastest-growing TypeScript ORM.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "drizzle-best-practices",
+      "source": ".",
+      "description": "Drizzle ORM done right. Schema design, relations, migrations, type-safe queries, and performance patterns for the fastest-growing TypeScript ORM."
+    }
+  ]
+}

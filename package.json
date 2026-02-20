@@ -1,0 +1,24 @@
+{
+  "name": "drizzle-best-practices",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Drizzle ORM done right. Schema design, relations, migrations, type-safe queries, and performance patterns for the fastest-growing TypeScript ORM.",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "keywords": ["drizzle", "drizzle-orm", "orm", "database", "typescript", "best-practices", "sql", "cursor-plugin", "claude-code", "ai-agent"],
+  "author": {
+    "name": "Ofer Shapira",
+    "url": "https://github.com/ofershap"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ofershap/drizzle-best-practices.git"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.0"
+  }
+}
