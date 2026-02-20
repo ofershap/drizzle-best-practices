@@ -48,6 +48,10 @@ Or copy `skills/` into your `.cursor/skills/` or `.claude/skills/` directory.
   (if using Drizzle with a Python backend via API)
 - [vibe-guard](https://github.com/ofershap/vibe-guard) - Security guardrails for database operations
 
+---
+
+If this helped your workflow, a star helps others find it.
+
 ## Author
 
 [![Made by ofershap](https://gitshow.dev/api/card/ofershap)](https://gitshow.dev/ofershap)
